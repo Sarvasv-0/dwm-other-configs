@@ -1,0 +1,6 @@
+dwmblocks &
+picom &
+/home/skyler/.local/bin/newlook &
+chmod +r /dev/rtc0
+exec dwm
+
