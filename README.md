@@ -1,0 +1,1 @@
+Wallset + pywal + picom + dwmblocks
