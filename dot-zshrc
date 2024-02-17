@@ -1652,7 +1652,6 @@ source ~/powerlevel10k/powerlevel10k.zsh-theme
 #alias vim="nvim"
 #alias dnf="dnf5"
 #alias sudo="sudo "
-alias ls="lsd"
 
 export BROWSER='brave-browser'
 export PATH=$PATH:/home/skyler/.local/bin/
